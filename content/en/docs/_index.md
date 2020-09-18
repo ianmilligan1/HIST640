@@ -1,7 +1,7 @@
 
 ---
-title: "Documentation"
-linkTitle: "Documentation"
+title: "Week-by-Week Material"
+linkTitle: "Week-by-Week Material"
 weight: 20
 menu:
   main:
