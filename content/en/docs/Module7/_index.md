@@ -1,9 +1,9 @@
 ---
-title: "Overview"
-linkTitle: "Overview"
-weight: 1
+title: "Module 7: Humanities Programming"
+linkTitle: "7: Humanities Programming"
+weight: 7
 description: >
-  Here's where your user finds out if your project is for them.
+  An introduction to the course. What is Digital History? Let's find out.
 ---
 
 {{% pageinfo %}}
