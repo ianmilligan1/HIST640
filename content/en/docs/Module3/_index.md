@@ -7,7 +7,7 @@ description: >
 ---
 
 {{% pageinfo %}}
-This week we do two things in HIST 640:
+This week we do two things:
 
 * Learn about what does it mean that we are digitizing all of these primary sources? Are _all_ historians "digital historians"?
 * Learn about "born-digital sources" – what does the explosion of web and social media-based primary sources mean for the writing of history?
