@@ -14,8 +14,6 @@ This week we do two things:
 
 {{% /pageinfo %}}
 
-{{< youtube w7Ft2ymGmfc >}}
-
 ## Readings for this Week
 
 * Chad Gaffield, "Clio and Computers in Canada and Beyond: Contested Past, Promising Present, Uncertain Future." _Canadian Historical Review_, vol. X, no. X: PPP-YYY. [Read via Project Muse]
