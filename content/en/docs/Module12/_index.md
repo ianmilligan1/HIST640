@@ -6,6 +6,8 @@ description: >
   An introduction to the course. What is Digital History? Let's find out.
 ---
 
+{{< figure src="wanderer.jpg" height="5" class="text-center">}}
+
 {{% pageinfo %}}
 This is a placeholder page that shows you how to use this template site.
 {{% /pageinfo %}}
