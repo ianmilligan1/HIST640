@@ -18,6 +18,8 @@ Try answering these questions for your user in this page:
 
 ## What is it?
 
+* https://culturalanalytics.org/article/11028-critical-search-a-procedure-for-guided-reading-in-large-scale-textual-corpora
+
 Introduce your project, including what it does or lets you do, why you would use it, and its primary goal (and how it achieves it). This should be similar to your README description, though you can go into a little more detail here if you want.
 
 ## Why do I want it?
