@@ -1,38 +1,48 @@
 ---
-title: "Module 7: Humanities Programming"
-linkTitle: "7: Humanities Programming"
+title: "Module 7: Event-based Digital Archives"
+linkTitle: "7: Event-based Digital Archives"
 weight: 7
 description: >
-  An introduction to the course. What is Digital History? Let's find out.
+  What role can historians play in documenting ever-changing events in the digital age?
 ---
 
+{{< figure src="WTC_fire.jpg" height="10" class="text-center">}}
+
 {{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
+**Content Warning**: I am using the case studies of the September 11th, 2001 attacks this week. The articles contain straightforward descriptions of the attacks, but I do want to flag that the television archive can make for some harrowing viewing. Watch at your comfort level.
+
+This week we do two things:
+
+* Explore the role that historians have played in responding to breaking events, using the case study of the September 11th, 2001 terrorist attacks; and
+* Put thought into practice to collaboratively develop plans to document contemporary events in Canada.
 {{% /pageinfo %}}
 
 
-The Overview is where your users find out about your project. Depending on the size of your docset, you can have a separate overview page (like this one) or put your overview contents in the Documentation landing page (like in the Docsy User Guide). 
+## Readings for this Week
 
-Try answering these questions for your user in this page:
+* Stephen Brier and Joshua Brown, "The September 11 Digital Archive: Saving the Histories of September 11, 2001," _Radical History Review_, Issue 111 (Fall 2011). 
+* James B. Gardner and Sarah M. Henry, "September 11 and the Mourning After: Reflections on Collecting and Interpreting the History of Tragedy," _The Public Historian_, Vol. 24, No. 3 (Summer 2002): 37-52.
+* Michelle Caswell, "Instant Documentation: Cell-Phone-Generated Records in the Archives," _American Archivist_, vol. 72, no. 1 (Spring-Summer 2009: 133-145).
 
-## What is it?
+I also want you to visit and explore these two websites at your comfort level:
 
-Introduce your project, including what it does or lets you do, why you would use it, and its primary goal (and how it achieves it). This should be similar to your README description, though you can go into a little more detail here if you want.
+* https://911digitalarchive.org
+* https://archive.org/details/911 
 
-## Why do I want it?
+## Homework for the Week
 
-Help your user know if your project will help them. Useful information can include: 
+After the discussion, we will carry out a small group assignment – in groups of two or three students (we'll talk about why teams are important), you will pick an ongoing event in Canada and develop a rough two-page working document. It will cover:
 
-* **What is it good for?**: What types of problems does your project solve? What are the benefits of using it?
+* **Brief description of the event** (half page)
+* **Online collection strategy** (one page)
+* **Ethical considerations** (half page)
 
-* **What is it not good for?**: For example, point out situations that might intuitively seem suited for your project, but aren't for some reason. Also mention known limitations, scaling issues, or anything else that might let your users know if the project is not for them.
+This will be due before (i.e. up to and including the minute we connect to the seminar together!) the next week's class.
 
-* **What is it *not yet* good for?**: Highlight any useful features that are coming soon.
+## Our Discussion for the Week
 
-## Where should I go next?
+In our discussion, we will cover the following topics:
 
-Give your users next steps from the Overview. For example:
-
-* [Getting Started](/getting-started/): Get started with $project
-* [Examples](/examples/): Check out some example code!
+* **September 11th, 2001**. How did historians and museums respond in the weeks and months after the events to keep a record? Have they been successful? What strategies do you find most compelling? If the attacks are not in your own living memory, how do you understand them today?
+* **Event collecting**. How would we approach a topic like this today? We will discuss the ongoing COVID-19 pandemic as one avenue.
 

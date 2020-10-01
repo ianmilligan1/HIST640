@@ -6,6 +6,8 @@ description: >
   An introduction to the course. What is Digital History? Let's find out.
 ---
 
+{{< figure src="archive.jpg" height="5" class="text-center">}}
+
 {{% pageinfo %}}
 Welcome to HIST 640! This week is an introduction, focusing on the following:
 

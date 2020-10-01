@@ -1,6 +1,6 @@
 ---
-title: "Module 8: Textual Analysis and Data Mining: Fundamentals"
-linkTitle: "8: Textual Analysis and Data Mining: Fundamentals"
+title: "Module 8: Textual Analysis and Data Mining"
+linkTitle: "8: Textual Analysis and Data Mining"
 weight: 8
 description: >
   An introduction to the course. What is Digital History? Let's find out.

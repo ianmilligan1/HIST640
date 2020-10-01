@@ -6,6 +6,8 @@ description: >
   How can we think like a machine? How do algorithms affect historical research?
 ---
 
+{{< figure src="robot.jpg" height="5" class="text-center">}}
+
 {{% pageinfo %}}
 **Admit it**: almost everything you learn you learn via Google. How does it shape your worldview?
 

@@ -1,13 +1,19 @@
 ---
-title: "Module Five: Executing a Digital Project"
-linkTitle: "5: Executing a Digital Project"
+title: "Module Five: Digital Ethics"
+linkTitle: "5: Ethics in the Digital Age"
 weight: 5
 description: >
-  An introduction to the course. What is Digital History? Let's find out.
+  Working with digital sources brings new ethical concerns.
 ---
 
+{{< figure src="camera.jpg" height="5" class="text-center">}}
+
 {{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
+This week we will focus on two main things:
+
+* What ethical concerns arise when we begin to work digitally? What does it mean to _digitize_ a document that might have previously only been read in a reading room?
+* What ethical concerns do the new wave of born-digital documents bring? What obligations do we as historians have?
+* How does this differ or is it similar to our ethical obligations as oral historians, or as historians working with the records of the long-deceased?
 {{% /pageinfo %}}
 
 

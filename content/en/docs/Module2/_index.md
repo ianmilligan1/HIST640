@@ -6,6 +6,8 @@ description: >
   How have historians engaged with the Web and other forms of computation? We put the field into historical perspective and then explore how WE can join the history web as a class.
 ---
 
+{{< figure src="network.jpg" height="5" class="text-center">}}
+
 {{% pageinfo %}}
 This week we do two things:
 

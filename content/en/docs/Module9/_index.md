@@ -1,6 +1,6 @@
 ---
-title: "Module Nine: Textual Analysis and Data Mining: Advanced Techniques"
-linkTitle: "9: Textual Analysis and Data Mining: Advanced Techniques"
+title: "Module Nine: Networks and Metadata"
+linkTitle: "9: Networks and Metadata"
 weight: 9
 description: >
   An introduction to the course. What is Digital History? Let's find out.
