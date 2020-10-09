@@ -19,6 +19,8 @@ Try answering these questions for your user in this page:
 
 ## What is it?
 
+https://www.worldscientific.com/doi/suppl/10.1142/p981/suppl_file/p981_chap06.pdf
+
 Introduce your project, including what it does or lets you do, why you would use it, and its primary goal (and how it achieves it). This should be similar to your README description, though you can go into a little more detail here if you want.
 
 ## Why do I want it?

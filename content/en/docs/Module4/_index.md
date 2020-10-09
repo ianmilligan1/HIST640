@@ -18,27 +18,21 @@ This week, we do two main things:
 
 {{% /pageinfo %}}
 
-
-Artificial Intelligence has impacted many aspects of daily life. We are witness to new cultural forms ranging from gaming devices to companion robots. We have seen exponential growth in the automation of jobs, from the manufacturing to the service sector, and the consequent displacement of human labour. It is clear then that the socio-cultural and political impacts of such trends deserve our attention -- as students, scholars, policy makers, and practitioners.
-
 ## Readings for this Week
 
-Introduce your project, including what it does or lets you do, why you would use it, and its primary goal (and how it achieves it). This should be similar to your README description, though you can go into a little more detail here if you want.
+Please consider the **Putnam reading** from the last module to be part of this, as we'll touch on this as an example of how bias plays out in historical research. Many of these readings are from outside of the field of history, but they will help explain the field to you and we'll do the application part in our class discussion (see below).
 
-## Homework for the Week
-
-Help your user know if your project will help them. Useful information can include: 
-
-* **What is it good for?**: What types of problems does your project solve? What are the benefits of using it?
-
-* **What is it not good for?**: For example, point out situations that might intuitively seem suited for your project, but aren't for some reason. Also mention known limitations, scaling issues, or anything else that might let your users know if the project is not for them.
-
-* **What is it *not yet* good for?**: Highlight any useful features that are coming soon.
+* Safiya Noble, “A Society, Searching,” from _Algorithms of Oppression: How Search Engines Reinforce Racism_ (New York: NYU Press, 2018). I’ll e-mail you this chapter (fair dealing).
+* Cathy O’Neill, “What is a Model?” from _Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy_ (New York: Penguin/Random House, 2016). I’ll e-mail you this chapter (fair dealing).
+* Ted Underwood, "Why an Age of Machine Learning Needs the Humanities," _Public Books_, 2018. <https://www.publicbooks.org/why-an-age-of-machine-learning-needs-the-humanities/>
+* Nicol Turner Lee, Paul Resnick, and Genie Barton, "Algorithmic bias detection and mitigation: Best practices and policies to reduce consumer harms," _Brooking Institute Report_, 2019. <https://www.brookings.edu/research/algorithmic-bias-detection-and-mitigation-best-practices-and-policies-to-reduce-consumer-harms/>
 
 ## Our Discussion for this Week
 
-Give your users next steps from the Overview. For example:
+In advance of the class, think about the following major prompt:
 
-* [Getting Started](/getting-started/): Get started with $project
-* [Examples](/examples/): Check out some example code!
+>Think of your last substantive research project. Could algorithmic bias or digitization bias have influenced this work? If so, how? If not, why not? What would you change in the future to avoid these issues?
 
+Also make sure you have a sense of what machine learning is, what algorithmic bias is, and how these key forces work. 
+
+See you all in class!

@@ -21,18 +21,20 @@ This week we do two things:
 * Chad Gaffield, "Clio and Computers in Canada and Beyond: Contested Past, Promising Present, Uncertain Future." _Canadian Historical Review_, vol. X, no. X: PPP-YYY. [Read via Project Muse]
 * Stephen Robertson, "The Differences between Digital Humanities and Digital History." _Debates in Digital Humanities 2016_ (Minneapolis: University of Minnesota Press, 2016). [[available online](https://dhdebates.gc.cuny.edu/read/untitled/section/ed4a1145-7044-42e9-a898-5ff8691b6628)]
 * Sheila A. Brennan, "Public, First." _Debates in Digital Humanities 2016_ (Minneapolis: University of Minnesota Press, 2016). [[available online](https://dhdebates.gc.cuny.edu/read/untitled/section/11b9805a-a8e0-42e3-9a1c-fad46e4b78e5#ch32)]
+* Robert S. Wolff, "The Historian's Craft, Popular Memory, and Wikipedia," in _Writing History in the Digital Age_, eds. Jack Dougherty and Kristen Nawrotzki (Ann Arbor: University of Michigan Press, 2013). <https://muse.jhu.edu/chapter/1030705>.
 * Find **THREE** websites, social media accounts, or YouTube subscriptions that you think do a good job of connecting history to the public. Be prepared to discuss them.
 
 ## Homework for the Week
 
-The main task this week is to set up your **course blog** for HIST 640. You can do so on a variety of sites, including Wordpress or Wix, to whatever level of technical complexity you would like.
+The main task this week is to set up a class website for HIST 640. This can be part of your digital portfolio. You can do so on a variety of sites, including Wordpress or Wix, to whatever level of technical complexity you would like.
 
 To help you with this, I provide a video walking you through the basic approach to setting up a Wordpress site. 
 
 Before the class, you should have a site set up with the following components:
 
 * An "about" page;
-* A first blog post saying "Hello World" and introducing yourself
+* Another page with a CV; and
+* Either a page of content with some project information *or* a blog post introducing yourself.
 
 If you run into trouble, we'll talk a bit about any pitfalls as a group during the discussion. 
 
