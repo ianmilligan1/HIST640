@@ -46,3 +46,8 @@ In our discussion, we will cover the following topics:
 * **September 11th, 2001**. How did historians and museums respond in the weeks and months after the events to keep a record? Have they been successful? What strategies do you find most compelling? If the attacks are not in your own living memory, how do you understand them today?
 * **Event collecting**. How would we approach a topic like this today? We will discuss the ongoing COVID-19 pandemic as one avenue.
 
+## Want to Meet with Me?
+
+As always, you can book a 30-minute meeting with me via Calendly. Use this link [here](https://calendly.com/i2millig/30min). If there are no times that are available, just send me an [email](mailto:i2millig@uwaterloo.ca) and we can work something out. 
+
+This will create a Microsoft Teams appointment. The URL for the Teams link will be in the calendar invitation e-mailed to you.

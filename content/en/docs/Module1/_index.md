@@ -30,3 +30,9 @@ One of the unique challenges of the Tri-University Graduate Program is that we a
 Since I do not want to have an open link out on the Web, all of you will have received via e-mail an invite for the synchronous component of the class. 
 
 You should **download Microsoft Teams** [here](https://www.microsoft.com/en-ca/microsoft-365/microsoft-teams/download-app). It is a _free_ download for your desktop or mobile. You do not need to have a Microsoft account, and you can join as a guest if you want.
+
+## Want to Meet with Me?
+
+As always, you can book a 30-minute meeting with me via Calendly. Use this link [here](https://calendly.com/i2millig/30min). If there are no times that are available, just send me an [email](mailto:i2millig@uwaterloo.ca) and we can work something out. 
+
+This will create a Microsoft Teams appointment. The URL for the Teams link will be in the calendar invitation e-mailed to you.

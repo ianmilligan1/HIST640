@@ -18,10 +18,10 @@ This week we do two things:
 
 ## Readings for this Week
 
+* Digital History and Argumentation White Paper. <https://rrchnm.org/argument-white-paper/>.
 * Chad Gaffield, "Clio and Computers in Canada and Beyond: Contested Past, Promising Present, Uncertain Future." _Canadian Historical Review_, vol. X, no. X: PPP-YYY. [Read via Project Muse]
 * Stephen Robertson, "The Differences between Digital Humanities and Digital History." _Debates in Digital Humanities 2016_ (Minneapolis: University of Minnesota Press, 2016). [[available online](https://dhdebates.gc.cuny.edu/read/untitled/section/ed4a1145-7044-42e9-a898-5ff8691b6628)]
 * Sheila A. Brennan, "Public, First." _Debates in Digital Humanities 2016_ (Minneapolis: University of Minnesota Press, 2016). [[available online](https://dhdebates.gc.cuny.edu/read/untitled/section/11b9805a-a8e0-42e3-9a1c-fad46e4b78e5#ch32)]
-* Robert S. Wolff, "The Historian's Craft, Popular Memory, and Wikipedia," in _Writing History in the Digital Age_, eds. Jack Dougherty and Kristen Nawrotzki (Ann Arbor: University of Michigan Press, 2013). <https://muse.jhu.edu/chapter/1030705>.
 * Find **THREE** websites, social media accounts, or YouTube subscriptions that you think do a good job of connecting history to the public. Be prepared to discuss them.
 
 ## Homework for the Week
@@ -51,3 +51,9 @@ In our Microsoft Teams discussion, we will cover the following topics:
 	* What has worked?
 	* How will you incorporate what you think has worked into your own website?
 * **Setting up your course blog**. We don't want our class to become a technical support forum, but we'll talk a bit about the best approaches to join the history web with your own site.
+
+## Want to Meet with Me?
+
+As always, you can book a 30-minute meeting with me via Calendly. Use this link [here](https://calendly.com/i2millig/30min). If there are no times that are available, just send me an [email](mailto:i2millig@uwaterloo.ca) and we can work something out. 
+
+This will create a Microsoft Teams appointment. The URL for the Teams link will be in the calendar invitation e-mailed to you.

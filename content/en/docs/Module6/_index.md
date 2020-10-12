@@ -33,3 +33,9 @@ In our discussion, we will cover the following topics:
 * **Take your most recent research project and think about what a spatial approach would add.** Come up with a mockup – on paper is fine – about what it might look like. What might you map? What issues would you run into? Would a spatial approach add to the project or not? 
 
 See you all then!
+
+## Want to Meet with Me?
+
+As always, you can book a 30-minute meeting with me via Calendly. Use this link [here](https://calendly.com/i2millig/30min). If there are no times that are available, just send me an [email](mailto:i2millig@uwaterloo.ca) and we can work something out. 
+
+This will create a Microsoft Teams appointment. The URL for the Teams link will be in the calendar invitation e-mailed to you.

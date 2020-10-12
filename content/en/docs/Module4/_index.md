@@ -36,3 +36,9 @@ In advance of the class, think about the following major prompt:
 Also make sure you have a sense of what machine learning is, what algorithmic bias is, and how these key forces work. 
 
 See you all in class!
+
+## Want to Meet with Me?
+
+As always, you can book a 30-minute meeting with me via Calendly. Use this link [here](https://calendly.com/i2millig/30min). If there are no times that are available, just send me an [email](mailto:i2millig@uwaterloo.ca) and we can work something out. 
+
+This will create a Microsoft Teams appointment. The URL for the Teams link will be in the calendar invitation e-mailed to you.

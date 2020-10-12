@@ -19,6 +19,7 @@ Try answering these questions for your user in this page:
 ## What is it?
 
 * https://culturalanalytics.org/article/11028-critical-search-a-procedure-for-guided-reading-in-large-scale-textual-corpora
+* Jean-Baptiste Michel et al., “Quantitative Analysis of Culture Using Millions of Digitized Books,” _Science_ 331,no. 6014 (January 14, 2011): 176–82.
 
 Introduce your project, including what it does or lets you do, why you would use it, and its primary goal (and how it achieves it). This should be similar to your README description, though you can go into a little more detail here if you want.
 
@@ -39,3 +40,8 @@ Give your users next steps from the Overview. For example:
 * [Getting Started](/getting-started/): Get started with $project
 * [Examples](/examples/): Check out some example code!
 
+## Want to Meet with Me?
+
+As always, you can book a 30-minute meeting with me via Calendly. Use this link [here](https://calendly.com/i2millig/30min). If there are no times that are available, just send me an [email](mailto:i2millig@uwaterloo.ca) and we can work something out. 
+
+This will create a Microsoft Teams appointment. The URL for the Teams link will be in the calendar invitation e-mailed to you.

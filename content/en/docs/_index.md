@@ -38,3 +38,9 @@ Every Monday morning, _I_ will make sure to:
 The reading load is lighter than your average Tri-University class. _However_, as a digital history class with an applied bent, sometimes there will be additional activities that will take the place of this reading load: i.e. trying out a website, installing some software, watching a video, or trying something that might be outside your comfort zone.
 
 The latter is key: parts of this class should and will be new to you all. This is a good thing as it helps us learn! But if you're feeling overwhelmed or have questions, always [e-mail me](mailto:i2millig@uwaterloo.ca) and we can connect there or set up a live chat.
+
+## Want to Meet with Me?
+
+As always, you can book a 30-minute meeting with me via Calendly. Use this link [here](https://calendly.com/i2millig/30min). If there are no times that are available, just send me an [email](mailto:i2millig@uwaterloo.ca) and we can work something out. 
+
+This will create a Microsoft Teams appointment. The URL for the Teams link will be in the calendar invitation e-mailed to you.

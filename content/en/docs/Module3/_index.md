@@ -47,3 +47,9 @@ In our Microsoft Teams discussion, we will cover the following topics:
 * **How will web archives and digital abundance transform the study of history? Will it?** Does working with web archives represent a _fundamental_ shift in how historians practice history, or is it just more of the same?
 
 See you then.
+
+## Want to Meet with Me?
+
+As always, you can book a 30-minute meeting with me via Calendly. Use this link [here](https://calendly.com/i2millig/30min). If there are no times that are available, just send me an [email](mailto:i2millig@uwaterloo.ca) and we can work something out. 
+
+This will create a Microsoft Teams appointment. The URL for the Teams link will be in the calendar invitation e-mailed to you.
