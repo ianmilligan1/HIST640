@@ -21,6 +21,8 @@ The Overview is where your users find out about your project. Depending on the s
 
 Try answering these questions for your user in this page:
 
+* Kimberly Christen, "Opening Archives: Respectful Repatriation," _The American Archivist_, vol. 74, no. 1 (Spring/Summer 2011): 185-210. Available via Library Access.
+
 ## What is it?
 
 Introduce your project, including what it does or lets you do, why you would use it, and its primary goal (and how it achieves it). This should be similar to your README description, though you can go into a little more detail here if you want.
