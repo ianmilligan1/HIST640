@@ -20,6 +20,9 @@ This week, we do two main things:
 
 ## Readings for this Week
 
+{{< youtube 5bMBKlRhZnQ >}}
+_A short video introduction to some of these ideas. Looking forward to our seminar discussion about this as always!_
+
 Please consider the **Putnam reading** from the last module to be part of this, as we'll touch on this as an example of how bias plays out in historical research. Many of these readings are from outside of the field of history, but they will help explain the field to you and we'll do the application part in our class discussion (see below).
 
 * Safiya Noble, “A Society, Searching,” from _Algorithms of Oppression: How Search Engines Reinforce Racism_ (New York: NYU Press, 2018). I’ll e-mail you this chapter (fair dealing).
