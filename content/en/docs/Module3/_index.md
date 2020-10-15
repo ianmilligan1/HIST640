@@ -32,6 +32,10 @@ I always _hate_ assigning my own work, but this is my active area of research. Y
 
 ## Homework for the Week
 
+{{< youtube H76lW9WiR_U >}}
+
+_Watch this walkthrough of how to use the Wayback Machine to help with the homework._
+
 In addition to reading the above, please:
 
 * **Get Aquainted with the Internet Archive**: Do some digging around in the Internet Archive's Wayback Machine at <https://archive.org/web/>. Some things to do:
