@@ -9,34 +9,24 @@ description: >
 {{< figure src="choice.jpg" height="5" class="text-center">}}
 
 {{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
+This is the **choose your own adventure week**! What does that really mean? We'll talk in the weeks before, but basically, is there something you want to learn about that we haven't covered in the course? 
+
+This could include:
+
+- more programming?
+- video games?
+- new narrative approaches?
+
+The sky is the limit, so we'll talk about this as the course evolves. Basically, this is a week where we can be flexible and have some fun.
 {{% /pageinfo %}}
 
+## Readings for this week
 
-The Overview is where your users find out about your project. Depending on the size of your docset, you can have a separate overview page (like this one) or put your overview contents in the Documentation landing page (like in the Docsy User Guide). 
+TBA, but will be light if we assign any (think websites not journal articles).
 
-Try answering these questions for your user in this page:
+## Our Discussion for the Week
 
-## What is it?
-
-Introduce your project, including what it does or lets you do, why you would use it, and its primary goal (and how it achieves it). This should be similar to your README description, though you can go into a little more detail here if you want.
-
-## Why do I want it?
-
-Help your user know if your project will help them. Useful information can include: 
-
-* **What is it good for?**: What types of problems does your project solve? What are the benefits of using it?
-
-* **What is it not good for?**: For example, point out situations that might intuitively seem suited for your project, but aren't for some reason. Also mention known limitations, scaling issues, or anything else that might let your users know if the project is not for them.
-
-* **What is it *not yet* good for?**: Highlight any useful features that are coming soon.
-
-## Where should I go next?
-
-Give your users next steps from the Overview. For example:
-
-* [Getting Started](/getting-started/): Get started with $project
-* [Examples](/examples/): Check out some example code!
+TBA
 
 ## Want to Meet with Me?
 
