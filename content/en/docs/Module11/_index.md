@@ -1,42 +1,25 @@
 ---
-title: "Module Eleven: Class Presentations"
-linkTitle: "11: Class Presentations"
+title: "Module Eleven and Twelve: Class Presentations"
+linkTitle: "11/12: Class Presentations"
 weight: 11
 description: >
   An introduction to the course. What is Digital History? Let's find out.
 ---
+## 26 March 2021 and 2 April 2021
 
 {{< figure src="presentation.jpg" height="5" class="text-center">}}
 
 {{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
+We will hold final presentations on 26 March 2021 and 2 April 2021. This will be similar to an **online, virtual conference.** 
+
+Notably, to make it fair, you will have to upload a 10-minute presentation by the start of class on March 26th. I will play them in the class, and then you will do live question and answer (this is both to ensure we have smooth connections and also to be fair to those who present on the second day).
+
+If you haven't done a video recording, don't worry. I'll provide information here well in advance.
 {{% /pageinfo %}}
 
+## What's going on??
 
-The Overview is where your users find out about your project. Depending on the size of your docset, you can have a separate overview page (like this one) or put your overview contents in the Documentation landing page (like in the Docsy User Guide). 
-
-Try answering these questions for your user in this page:
-
-## What is it?
-
-Introduce your project, including what it does or lets you do, why you would use it, and its primary goal (and how it achieves it). This should be similar to your README description, though you can go into a little more detail here if you want.
-
-## Why do I want it?
-
-Help your user know if your project will help them. Useful information can include: 
-
-* **What is it good for?**: What types of problems does your project solve? What are the benefits of using it?
-
-* **What is it not good for?**: For example, point out situations that might intuitively seem suited for your project, but aren't for some reason. Also mention known limitations, scaling issues, or anything else that might let your users know if the project is not for them.
-
-* **What is it *not yet* good for?**: Highlight any useful features that are coming soon.
-
-## Where should I go next?
-
-Give your users next steps from the Overview. For example:
-
-* [Getting Started](/getting-started/): Get started with $project
-* [Examples](/examples/): Check out some example code!
+See the [Assignments](/assignments) page for more information. We'll also talk about this in class.
 
 ## Want to Meet with Me?
 

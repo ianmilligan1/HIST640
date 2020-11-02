@@ -5,6 +5,7 @@ weight: 3
 description: >
   This week, we explore "born-digital sources" and "made-digital sources," and what they mean for the writing of history.
 ---
+## 21 January 2021 
 
 {{< figure src="paper_computer.jpg" height="5" class="text-center">}}
 

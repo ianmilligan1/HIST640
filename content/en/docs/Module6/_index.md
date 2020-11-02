@@ -5,6 +5,7 @@ weight: 6
 description: >
   An introduction to the course. What is Digital History? Let's find out.
 ---
+## 12 February 2021 (next week is reading week!)
 
 {{< figure src="map.jpg" height="5" class="text-center">}}
 

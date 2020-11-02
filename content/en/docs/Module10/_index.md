@@ -5,6 +5,8 @@ weight: 10
 description: >
   An introduction to the course. What is Digital History? Let's find out.
 ---
+## 19 March 2021
+
 
 {{< figure src="choice.jpg" height="5" class="text-center">}}
 

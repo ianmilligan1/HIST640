@@ -15,9 +15,6 @@ resources:
 
 {{< figure src="calendar.jpg" height="10" >}}
 
-
-
-
 {{% pageinfo %}}
 **Welcome to HIST 640**. This will be the main place that you interact with course content. 
 
