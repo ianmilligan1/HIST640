@@ -5,7 +5,7 @@ weight: 4
 description: >
   How can we think like a machine? How do algorithms affect historical research?
 ---
-## 29 January 2021
+## 28 January 2021
 
 {{< figure src="robot.jpg" height="5" class="text-center">}}
 

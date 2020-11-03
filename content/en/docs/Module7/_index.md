@@ -5,7 +5,7 @@ weight: 7
 description: >
   What role can historians play in documenting ever-changing events in the digital age?
 ---
-## 26 February 2021
+## 25 February 2021
 
 {{< figure src="WTC_fire.jpg" height="10" class="text-center">}}
 

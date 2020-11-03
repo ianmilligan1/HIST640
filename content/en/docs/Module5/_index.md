@@ -5,7 +5,7 @@ weight: 5
 description: >
   Working with digital sources brings new ethical concerns.
 ---
-## 5 February 2021
+## 4 February 2021
 
 {{< figure src="camera.jpg" height="5" class="text-center">}}
 

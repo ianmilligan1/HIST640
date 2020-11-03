@@ -5,7 +5,7 @@ weight: 11
 description: >
   An introduction to the course. What is Digital History? Let's find out.
 ---
-## 26 March 2021 and 2 April 2021
+## 25 March 2021 and 1 April 2021
 
 {{< figure src="presentation.jpg" height="5" class="text-center">}}
 
