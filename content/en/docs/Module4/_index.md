@@ -3,7 +3,6 @@ title: "Module Four: Thinking Like a Machine"
 linkTitle: "4: Thinking Like a Machine: Algorithmic Bias and Machine Learning"
 weight: 4
 description: >
-  How can we think like a machine? How do algorithms affect historical research?
 ---
 ## 28 January 2021
 

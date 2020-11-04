@@ -3,7 +3,6 @@ title: "Module 8: Textual Analysis and Data Mining"
 linkTitle: "8: Textual Analysis and Data Mining"
 weight: 8
 description: >
-  An introduction to the course. What is Digital History? Let's find out.
 ---
 ## 4 March 2021
 
@@ -19,8 +18,6 @@ So much of our cultural record has been digitized. How can we use computers to "
 * Jo Guldi, "Critical Search: A Procedure for Guided Reading in Large-Scale Textual Corpora," _Journal of Cultural Analytics_, 19 December 2018. <https://culturalanalytics.org/article/11028-critical-search-a-procedure-for-guided-reading-in-large-scale-textual-corpora>
 * Jean-Baptiste Michel et al., “Quantitative Analysis of Culture Using Millions of Digitized Books,” _Science_ 331,no. 6014 (January 14, 2011): 176–82. Available via library database.
 * _The Programming Historian_. <https://programminghistorian.org> (see homework)
-
-Introduce your project, including what it does or lets you do, why you would use it, and its primary goal (and how it achieves it). This should be similar to your README description, though you can go into a little more detail here if you want.
 
 ## Homework for the Week
 

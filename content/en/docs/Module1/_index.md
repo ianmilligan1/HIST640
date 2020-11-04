@@ -3,7 +3,6 @@ title: "Module One: History Goes Digital"
 linkTitle: "1: History Goes Digital"
 weight: 1
 description: >
-  An introduction to the course. What is Digital History? Let's find out.
 ---
 ## 7 January 2021
 

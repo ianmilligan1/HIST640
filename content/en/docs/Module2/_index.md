@@ -3,7 +3,6 @@ title: "Module Two: The History Web"
 linkTitle: "2: The History Web"
 weight: 2
 description: >
-  How have historians engaged with the Web and other forms of computation? We put the field into historical perspective and then explore how WE can join the history web as a class.
 ---
 ## 14 January 2021
 

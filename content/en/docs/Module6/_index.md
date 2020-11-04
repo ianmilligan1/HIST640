@@ -3,7 +3,6 @@ title: "Module Six: Spatial Histories"
 linkTitle: "6: Spatial Histories"
 weight: 6
 description: >
-  An introduction to the course. What is Digital History? Let's find out.
 ---
 ## 11 February 2021 (next week is reading week!)
 

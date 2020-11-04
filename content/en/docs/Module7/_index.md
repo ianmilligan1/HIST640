@@ -3,7 +3,6 @@ title: "Module 7: Event-based Digital Archives"
 linkTitle: "7: Event-based Digital Archives"
 weight: 7
 description: >
-  What role can historians play in documenting ever-changing events in the digital age?
 ---
 ## 25 February 2021
 

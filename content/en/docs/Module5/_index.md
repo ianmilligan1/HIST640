@@ -3,7 +3,6 @@ title: "Module Five: Digital Ethics"
 linkTitle: "5: Ethics in the Digital Age"
 weight: 5
 description: >
-  Working with digital sources brings new ethical concerns.
 ---
 ## 4 February 2021
 

@@ -3,7 +3,6 @@ title: "Module Eleven and Twelve: Class Presentations"
 linkTitle: "11/12: Class Presentations"
 weight: 11
 description: >
-  An introduction to the course. What is Digital History? Let's find out.
 ---
 ## 25 March 2021 and 1 April 2021
 

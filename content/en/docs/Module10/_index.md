@@ -3,7 +3,6 @@ title: "Module Ten: Choose Your Own Adventure Week"
 linkTitle: "10: Choose Your Own Adventure"
 weight: 10
 description: >
-  An introduction to the course. What is Digital History? Let's find out.
 ---
 ## 18 March 2021
 
