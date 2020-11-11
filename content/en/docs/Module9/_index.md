@@ -1,6 +1,6 @@
 ---
-title: "Module Nine: Networks and Metadata"
-linkTitle: "9: Networks and Metadata"
+title: "Module Nine: Hands-on With Text Analysis"
+linkTitle: "9: Hands-on With Text Analysis"
 weight: 9
 description: >
 ---
@@ -9,14 +9,12 @@ description: >
 {{< figure src="network.jpg" height="5" class="text-center">}}
 
 {{% pageinfo %}}
-Networks are .
+TBA
 {{% /pageinfo %}}
 
 ## Readings for this Week
 
-* Christopher N. Warren et al., "Six Degrees of Francis Bacon: A Statistical Method for Reconstructing Large Historical Social Networks," _Digital Humanities Quarterly_, vol. 10, no. 3 (2016). <http://www.digitalhumanities.org/dhq/vol/10/3/000244/000244.html>
-* John R. Ladd et al., "Exploring and Analyzing Network Data with Python," _Programming Historian_, August 2017. <https://programminghistorian.org/en/lessons/exploring-and-analyzing-network-data-with-python> [note: please read this but you don't have to do the lesson]
-* Shawn Graham, Ian Milligan, and Scott Weingart, _Exploring Big Historical Data: The Historian's Macroscope_ (London: Imperial College Press, 2015), Ch. 6 at <https://www.worldscientific.com/doi/suppl/10.1142/p981/suppl_file/p981_chap06.pdf>. [note: while I am a co-author Scott primarily wrote this!]
+Some sort of Software Carpentry thing?
 
 ## Homework for the Week
 
