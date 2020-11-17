@@ -4,7 +4,7 @@ linkTitle: "9: Hands-on With Text Analysis"
 weight: 9
 description: >
 ---
-## 11 March 2021
+## 18 March 2021
 
 {{< figure src="network.jpg" height="5" class="text-center">}}
 

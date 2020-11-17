@@ -4,7 +4,7 @@ linkTitle: "1: History Goes Digital"
 weight: 1
 description: >
 ---
-## 7 January 2021
+## 14 January 2021
 
 {{< figure src="archive.jpg" height="5" class="text-center">}}
 

@@ -4,7 +4,7 @@ linkTitle: "4: Thinking Like a Machine: Algorithmic Bias and Machine Learning"
 weight: 4
 description: >
 ---
-## 28 January 2021
+## 4 February 2021
 
 {{< figure src="robot.jpg" height="5" class="text-center">}}
 

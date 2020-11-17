@@ -4,7 +4,7 @@ linkTitle: "2: The History Web"
 weight: 2
 description: >
 ---
-## 14 January 2021
+## 21 January 2021
 
 {{< figure src="network.jpg" height="5" class="text-center">}}
 

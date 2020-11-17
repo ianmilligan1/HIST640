@@ -4,7 +4,7 @@ linkTitle: "3: Born-Digital and Made-Digital"
 weight: 3
 description: >
 ---
-## 21 January 2021 
+## 28 January 2021 
 
 {{< figure src="paper_computer.jpg" height="5" class="text-center">}}
 

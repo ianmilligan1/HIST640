@@ -4,7 +4,7 @@ linkTitle: "8: Textual Analysis and Data Mining"
 weight: 8
 description: >
 ---
-## 4 March 2021
+## 11 March 2021
 
 {{< figure src="code.jpg" height="5" class="text-center">}}
 

@@ -4,7 +4,7 @@ linkTitle: "7: Event-based Digital Archives"
 weight: 7
 description: >
 ---
-## 25 February 2021
+## 4 March 2021
 
 {{< figure src="WTC_fire.jpg" height="10" class="text-center">}}
 

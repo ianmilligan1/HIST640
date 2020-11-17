@@ -4,7 +4,7 @@ linkTitle: "5: Ethics in the Digital Age"
 weight: 5
 description: >
 ---
-## 4 February 2021
+## 11 February 2021 (next week is reading week!)
 
 {{< figure src="camera.jpg" height="5" class="text-center">}}
 

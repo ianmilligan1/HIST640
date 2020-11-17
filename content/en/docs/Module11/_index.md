@@ -4,7 +4,7 @@ linkTitle: "11/12: Class Presentations"
 weight: 11
 description: >
 ---
-## 25 March 2021 and 1 April 2021
+## 1 April 2021 and 8 April 2021
 
 {{< figure src="presentation.jpg" height="5" class="text-center">}}
 

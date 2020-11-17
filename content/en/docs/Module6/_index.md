@@ -4,11 +4,13 @@ linkTitle: "6: Spatial Histories"
 weight: 6
 description: >
 ---
-## 11 February 2021 (next week is reading week!)
+## 25 February 2021 
 
 {{< figure src="map.jpg" height="5" class="text-center">}}
 
 {{% pageinfo %}}
+**Welcome back from Reading Week!**
+
 This week we look at spatial histories, with an eye on the following key points:
 
 * What are spatial histories?
