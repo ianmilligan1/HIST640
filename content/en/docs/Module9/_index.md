@@ -9,16 +9,14 @@ description: >
 {{< figure src="network.jpg" height="5" class="text-center">}}
 
 {{% pageinfo %}}
-TBA
+**Important Proviso:** This week you had your "two days" of study break due to COVID-19. I genuinely want to use those two days in the spirit that they were intended, so we won't have readings in class. What we will have is a short video introducing you to Python, a way to boot up your own notebook, and then we'll do some quick exercises and discussion together in Teams. Catch your breath and you can also get caught up on this or other courses.
 {{% /pageinfo %}}
 
 ## Readings for this Week
 
-Some sort of Software Carpentry thing?
+**NO READINGS THIS WEEK BUT WE WILL HAVE OUR MEETING AS SCHEDULED.** 
 
-## Homework for the Week
-
-## Our Discussion for the Week
+Please just watch the video when it is posted here (I will do so before the week opens).
 
 ## Want to Meet with Me?
 
