@@ -26,12 +26,9 @@ This week we do two things:
 
 ## Homework for the Week
 
-{{< youtube a7fRZvB-2C4 >}}
-_Watch this video for a sense of how you can set up a basic Wordpress site. I regret the use of my big face as the image._
-
 The main task this week is to set up a class website for HIST 640. This can be part of your digital portfolio. You can do so on a variety of sites, including Wordpress or Wix, to whatever level of technical complexity you would like.
 
-To help you with this, I provided a video (above) walking you through the basic approach to setting up a Wordpress site. 
+To help you with this, I will provide a video walking you through the basic approach to setting up a site. 
 
 Before the class, you should have a site set up with the following components:
 
