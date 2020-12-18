@@ -14,8 +14,8 @@ Welcome to HIST 640! This week is an introduction, focusing on the following:
 * Introducing you to the syllabus and this course website. What do you need to know to succeed in the course.
 * Getting to know each other, and how we can use the connectivity services we're using in HIST 640.
 * I will call on each of you during the synchronous meeting to do the following:
-	* Introduce yourself and what your MA MRP/Thesis is hopefully going to be about;
-	* Why are you interested in digital history?
+	* Introduce yourself, your program, and if you are doing an MRP or Thesis, what it is about (and if not, what you're hoping to get out of your professional program);
+	* Why are you interested in digital history or this course?
 	* What do you hope to get out of the course?
 {{% /pageinfo %}}
 
