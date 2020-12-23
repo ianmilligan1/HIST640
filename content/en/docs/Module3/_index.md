@@ -21,8 +21,8 @@ I always _hate_ assigning my own work, but this is my active area of research. Y
 
 **Made-Digital Sources**
 
+* Tim Hitchcock, “Confronting the Digital: Or How Academic History Writing Lost the Plot,” _Cultural and Social History_, vol. 10, issue 1 (2013): 9-23. <https://www.tandfonline.com/doi/abs/10.2752/147800413X13515292098070>. 
 * Lara Putnam, "The Transnational and the Text-Searchable: Digitized Sources and the Shadows They Cast," _American Historical Review_, April 2016, vol. 121, issue 2 (April 2016): 377-402. <https://academic.oup.com/ahr/article/121/2/377/2581842>.
-* Ian Milligan, "We Are All Digital Now: Digital Photography and the Reshaping of Historical Practice," _Canadian Historical Review_, December 2020. <https://www.utpjournals.press/doi/abs/10.3138/chr-2020-0023>.
 * Alexis C. Madrigal, "The Way We Write History Has Changed," _The Atlantic_, 21 January 2020. <https://www.theatlantic.com/technology/archive/2020/01/smartphone-archives-history-photography/605284/>.
 
 **Born-Digital Sources**
