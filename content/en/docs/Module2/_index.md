@@ -25,11 +25,11 @@ This week we do two things:
 
 ## Homework for the Week
 
-The main task this week is to set up a class website for HIST 640. This can be part of your digital portfolio. You can do so on a variety of sites, including Wordpress or Wix, to whatever level of technical complexity you would like.
+The main task before and after this class is to set up a class website for HIST 640. This can be part of your digital portfolio. You can do so on a variety of sites, including Wordpress or Wix, to whatever level of technical complexity you would like. If you already have a website, that's awesome - we might ask you to share it in class.
 
-To help you with this, I will provide a video walking you through the basic approach to setting up a site. 
+To help you with this, I will provide a video walking you through the basic approach to setting up a site. We'll talk about best practices in the seminar.
 
-Before the class, you should have a site set up with the following components:
+By the start of Week Three (i.e. next week), you should have a site set up with the following components:
 
 * An "about" page;
 * Another page with a CV; and
@@ -49,7 +49,7 @@ In our Microsoft Teams discussion, we will cover the following topics:
 	* Why do we do this?
 	* What has worked?
 	* How will you incorporate what you think has worked into your own website?
-* **Setting up your course blog**. We don't want our class to become a technical support forum, but we'll talk a bit about the best approaches to join the history web with your own site.
+* **Setting up your own website**. We don't want our class to become a technical support forum, but we'll talk a bit about the best approaches to join the history web with your own site.
 
 ## Want to Meet with Me?
 
