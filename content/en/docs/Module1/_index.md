@@ -21,7 +21,9 @@ Welcome to HIST 640! This week is an introduction, focusing on the following:
 
 ## Readings for this Week
 
-No readings for the week. You should watch the welcome video before hopping in.
+No readings for the week. You should watch the following video before hopping in!
+
+{{< youtube 6CXivKhO_Pw >}}
 
 ## How to Connect
 
