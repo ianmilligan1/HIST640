@@ -18,7 +18,7 @@ This week we do two things:
 
 ## Readings for this Week
 
-* Chad Gaffield, "Clio and Computers in Canada and Beyond: Contested Past, Promising Present, Uncertain Future." _Canadian Historical Review_, vol. 101, issue. 4: 559-584. [Read via Project Muse]
+* Chad Gaffield, "Clio and Computers in Canada and Beyond: Contested Past, Promising Present, Uncertain Future." _Canadian Historical Review_, vol. 101, issue. 4: 559-584. [Read via Project Muse; [here's a UW Proxy Link](https://muse-jhu-edu.proxy.lib.uwaterloo.ca/article/777491)
 * Sharon Leon, "Complicating a “Great Man” Narrative of Digital History in the United States." _Bodies of Information: Intersectional Feminism and digital Humanities_ (Minneapolis: University of Minnesota Press, 2018). [[available online](https://dhdebates.gc.cuny.edu/read/untitled-4e08b137-aec5-49a4-83c0-38258425f145/section/53838061-eb08-4f46-ace0-e6b15e4bf5bf#ch19)]
 * Stephen Robertson, "The Differences between Digital Humanities and Digital History." _Debates in Digital Humanities 2016_ (Minneapolis: University of Minnesota Press, 2016). [[available online](https://dhdebates.gc.cuny.edu/read/untitled/section/ed4a1145-7044-42e9-a898-5ff8691b6628)]
 * Find **THREE** websites, social media accounts, or YouTube subscriptions that you think do a good job of connecting history to the public. Be prepared to discuss them.
