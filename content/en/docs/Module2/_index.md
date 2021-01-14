@@ -25,6 +25,16 @@ This week we do two things:
 
 ## Homework for the Week
 
+Here are two videos. The first is Wix, which is probably the _easiest_ way to make a basic, professional site. I don't provide any commentary as you can see how easy it is.
+
+{{< youtube 2jCbDwNpQY0 >}}
+
+The second is Wordpress. A bit more involved, but if you wanted to get a blog going or have more options, it's a choice too.
+
+{{< youtube a7fRZvB-2C4 >}}
+
+There are other options too, of course!
+
 The main task before and after this class is to set up a class website for HIST 640. This can be part of your digital portfolio. You can do so on a variety of sites, including Wordpress or Wix, to whatever level of technical complexity you would like. If you already have a website, that's awesome - we might ask you to share it in class.
 
 To help you with this, I will provide a video walking you through the basic approach to setting up a site. We'll talk about best practices in the seminar.
