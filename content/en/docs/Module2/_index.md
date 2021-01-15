@@ -43,7 +43,7 @@ By the start of Week Three (i.e. next week), you should have a site set up with 
 
 * An "about" page;
 * Another page with a CV; and
-* Either a page of content with some project information *or* a blog post introducing yourself.
+* Either a page of content with some project information *or* a blog post introducing yourself. (**Jan 15**: *edited to clarify: this could be about your MRP; a policy problem you're interested in; dissertation goals; a favourite historical question; it's really just an opportunity to flesh out your site with some extra stuff!*)
 
 If you run into trouble, we'll talk a bit about any pitfalls as a group during the discussion. 
 
