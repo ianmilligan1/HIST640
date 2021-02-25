@@ -31,13 +31,15 @@ I also want you to visit and explore these two websites at your comfort level:
 
 ## Homework for the Week
 
-After the discussion, we will carry out a small group assignment – in groups of two or three students (we'll talk about why teams are important), you will pick an ongoing event in Canada and develop a rough two-page working document. It will cover:
+**Updated Thu Feb 25 by Ian: Let's not do this. I think you've got enough on your decks getting your project started, and I'd rather you spend time on discussion _and_ beginning to chat with each other in synergy groups on Teams than this. Hope you didn't have your hopes up about this thing...**
 
-* **Brief description of the event** (half page)
-* **Online collection strategy** (one page)
-* **Ethical considerations** (half page)
+<del>After the discussion, we will carry out a small group assignment – in groups of two or three students (we'll talk about why teams are important), you will pick an ongoing event in Canada and develop a rough two-page working document. It will cover:</del>
 
-This will be due before (i.e. up to and including the minute we connect to the seminar together!) the next week's class.
+* <del>**Brief description of the event** (half page)</del>
+* <del>**Online collection strategy** (one page)</del>
+* <del>**Ethical considerations** (half page)</del>
+
+<del>This will be due before (i.e. up to and including the minute we connect to the seminar together!) the next week's class.</del>
 
 ## Our Discussion for the Week
 
