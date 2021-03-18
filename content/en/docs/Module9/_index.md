@@ -63,7 +63,7 @@ Huzzah. It is working!
 Let's install it by running the following cell.
 
 ```bash
-sudo pip install internetarchive > /dev/null
+!sudo pip install internetarchive > /dev/null
 ```
 
 4. Now let's work with your collection. I am going to use the *Economist* in these examples, _but_ you should swap in your own collection. We'll have fun.
